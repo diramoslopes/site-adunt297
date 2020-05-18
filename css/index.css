@@ -1,0 +1,61 @@
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/******* inicio css header mobile first *******/
+
+header{
+    width: 100vw;
+}
+
+.div-header{
+    width: 100vw;
+    text-align: center;
+}
+
+.div-header .imagem-logo {
+    height: 190px;
+    width: 180px;
+    margin-top: 1em;
+    clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
+}
+
+.div-header figcaption{
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+    color: #FF7F00;
+}
+
+.menu{
+    margin-top: 1em;
+    text-align: center;
+}
+
+.lista-menu .itens-menu{
+    display: inline-block;
+}
+
+.lista-menu .itens-menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+}
+
+.lista-menu .itens-menu a:active,
+.lista-menu .itens-menu a:hover{
+    text-decoration: underline;
+    color:  #FF7F00;
+}
+
+/* criei essa class para o menu ministerio ficar no centro */
+.lista-menu .itens-menu-centro{
+    margin: 0 12%;
+}
+
+/******* fim css header *******/
+
+
+
