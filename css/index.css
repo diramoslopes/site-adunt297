@@ -57,5 +57,103 @@ header{
 
 /******* fim css header *******/
 
+/****** inicio do css do main ******/
+main{
+    background-color: red;
+    color: white;
+    height: 50px;
+    margin-top: 33px;
+}
+/****** fim do css do main ******/
+
+/****** inicio do css do footer ******/
+footer{
+    width: 100vw;
+}
+
+.rodape-titulo{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.rodape-secao1{
+    /*background-color: blue;*/
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.rodape-secao1 .rodape-lista li{
+    display: inline-block;
+}
+
+.rodape-secao1 .rodape-lista li a{
+    color: whitesmoke;
+}
+
+.rodape-secao1 .rodape-lista i{
+    font-size: 4em;
+    padding: 10px;
+    color: black;
+}
+
+.rodape-secao2{
+    /*background-color: green;*/
+    margin-top: 2em;
+}
+
+.rodape-secao2 .imagem-logo-rodape{
+    border-radius: 95px;
+    height: 190px;
+    margin-left: 1em;
+    margin-top: 1em;
+    width: 180px;
+}
+
+.rodape-secao2 table{
+    text-align: center;
+    margin-left: 11%;
+    font-size: 1.2em;
+}
+
+.rodape-secao2 .tabela-rodape .coluna1{
+    padding-right: 2em;
+    padding-left: 2em;
+    font-weight: bold;
+}
+
+.rodape-secao2 .rodape-secao2-templo{
+    text-align: center;
+    margin-top: 1.2em;
+    margin-bottom: 1em;
+}
+
+.rodape-secao2 .rodape-secao2-localizacao .mapa{
+   width: 100vw;
+}
+
+.rodape-secao3{
+    /*background-color: orange;*/
+    margin-top: 3em;
+}
+
+.rodape-secao3 .tabela-dois-rodape{
+   /* background-color: tomato;*/
+    margin-left: 30%;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+
+.rodape-secao4{
+    /*background-color: teal;*/
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+
+/****** fim do css do footer ******/
+
 
 
