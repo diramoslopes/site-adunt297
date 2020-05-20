@@ -59,11 +59,122 @@ header{
 
 /****** inicio do css do main ******/
 main{
-    background-color: red;
     color: white;
-    height: 50px;
     margin-top: 33px;
 }
+
+main .main-titulo{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.pastores .img-pastores{
+    text-align: center;
+}
+
+.pastores .conteudo-pastores{
+    text-align: center;
+    color: black;
+}
+
+.pastores .foto-pastores{
+    width: 80vw;
+    border-radius: 3em;
+    margin-top: 1em;
+}
+
+.pastores .texto-pastores{
+    margin-bottom: 2em;
+}
+
+.pastores .span-adunt{
+    padding: 1em;
+}
+
+.pastores .botao-pastores{
+    margin-top: 0.2em;
+    color: white;
+    background-color: #FF7F00;
+    padding: 1em 5em;
+    border-radius: 1em;
+    line-height: 0.4;
+    letter-spacing: 0.505em;
+    font-weight: 600;
+    border-color: orange;
+}
+
+
+.contribuicao .conteudo-contribuicao{
+    text-align: center;
+    color: black;
+}
+
+.contribuicao .conteudo-contribuicao .icone-coracao{
+    font-size: 3em;
+    margin-top: 1em;
+}
+
+.contribuicao .conteudo-contribuicao p{
+    margin-top: -12px;
+}
+
+.contribuicao .botao-contribuir{
+    margin-top: 0.2em;
+    color: white;
+    background-color: #FF7F00;
+    padding: 1em 5em;
+    border-radius: 1em;
+    line-height: 0.9;
+    letter-spacing: 0.088em;
+    font-weight: 600;
+    border-color: orange;
+    margin-top: 1em;
+}
+
+.ministerios .conteudo-ministerios{
+    text-align: center;
+    color: black;
+}
+
+.ministerios .conteudo-ministerios .icone-ferramenta{
+    font-size: 3em;
+    margin-top: 1em;
+}
+
+.ministerios .botao-ministerios{
+    margin-top: 0.2em;
+    color: white;
+    background-color: #FF7F00;
+    padding: 1em 5em;
+    border-radius: 1em;
+    line-height: 0.6;
+    letter-spacing: 0.556em;
+    font-weight: 700;
+    border-color: orange;
+    margin-top: 1em;
+    font-size: 16px;
+}
+
+
+.redes .redes-sociais {
+   background-color: green;
+}
+
+.redes-socias{
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
+
+.redes-socias .redes-paragrafo{
+    font-size: 20px;
+    background-color: red;
+    color: whitesmoke;
+    display: inline-block;
+}
+
 /****** fim do css do main ******/
 
 /****** inicio do css do footer ******/
@@ -151,8 +262,6 @@ footer{
     border-top: 1px solid black;
     text-align: center;
 }
-
-
 /****** fim do css do footer ******/
 
 
