@@ -1,0 +1,46 @@
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/****** inicio do css do main ******/
+
+.titulo-sobre{
+    width: 100vw;
+    background-color: #F79B3F;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.img-sobre{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.imagem-sobre-3,
+.imagem-sobre-2,
+.imagem-sobre{
+    width: 100vw;
+    border-radius: 1em;
+    margin-top: 1em;
+}
+
+.paragrafo-sobre-5,
+.paragrafo-sobre-4,
+.paragrafo-sobre-3,
+.paragrafo-sobre-2,
+.paragrafo-sobre{
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+/****** fim do css do main ******/
