@@ -21,14 +21,14 @@
 
 .img-sobre{
     text-align: center;
-    margin-bottom: 2em;
+    margin-bottom: 2em; 
 }
 
 .imagem-sobre-3,
 .imagem-sobre-2,
 .imagem-sobre{
     width: 100vw;
-    border-radius: 1em;
+    border-radius: 0em;
     margin-top: 1em;
 }
 

@@ -1,0 +1,11 @@
+.titulo-ministerio{
+    width: 100vw;
+    background-color: #4fb731;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: whitesmoke;
+    font-size: 30px;
+}
