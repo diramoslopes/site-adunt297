@@ -1,0 +1,27 @@
+.titulo-contribuicao{
+    width: 100vw;
+    background-color:  #e44471;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.logo-bradesco img{
+    width: 100px;
+    height: 100px;
+}
+
+.bradesco{
+    background-color: #e1cccc;
+    text-align: center;
+    padding: 4em 0;
+}
+
+section .texto-contribuicao{
+    margin-left: 1em;
+    padding: 1em;
+}
