@@ -77,28 +77,17 @@ footer{
    width: 100vw;
 }
 
-.rodape-secao3{
-    /*background-color: orange;*/
-    margin-top: 3em;
-}
-
-.rodape-secao3 .tabela-dois-rodape{
-   /* background-color: tomato;*/
-    margin-left: 34%;
-    padding-top: 7px;
+.logo-bradesco img{
+    width: 100px;
+    height: 100px;
     margin-bottom: 1em;
-    color: #dfd8d8;
-    font-size: 1em;
-    line-height: 1.4;
-    letter-spacing: 0.102em;
-    font-weight: 700;
 }
 
-.rodape-secao3 .banco{
-    color: #dfd8d8;
+.bradesco{
     text-align: center;
+    padding: 4em 0;
+    color: #dfd8d8;
 }
-
 
 .rodape-secao4{
     /*background-color: teal;*/
