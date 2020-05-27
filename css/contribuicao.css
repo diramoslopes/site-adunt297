@@ -16,10 +16,11 @@
     margin-bottom: 1em;
 }
 
-.bradesco{
+.bradesco-contribuicao{
     background-color: #e1cccc;
     text-align: center;
     padding: 4em 0;
+    color: rgb(46, 44, 44);
 }
 
 section .texto-contribuicao{
