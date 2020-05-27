@@ -32,6 +32,16 @@
     margin-top: 1em;
 }
 
+@media (min-width: 640px){
+    .imagem-sobre-3,
+    .imagem-sobre-2,
+    .imagem-sobre{
+        width: 30vw;
+        border-radius: 0em;
+        margin-top: 1em;
+    }
+}
+
 .paragrafo-sobre-5,
 .paragrafo-sobre-4,
 .paragrafo-sobre-3,

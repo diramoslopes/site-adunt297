@@ -38,6 +38,12 @@ main .main-titulo{
     margin-top: 1em;
 }
 
+@media (min-width: 640px){
+    .pastores .foto-pastores{
+        width: 30vw;
+    }
+}
+
 .pastores .texto-pastores{
     margin-bottom: 2em;
 }
@@ -58,6 +64,7 @@ main .main-titulo{
 }
 
 .contribuicao .conteudo-contribuicao{
+    clear: both;
     text-align: center;
     color: black;
     background-color: #f1b3b6;
@@ -126,6 +133,12 @@ main .main-titulo{
     background-color: red;
     color: whitesmoke;
     display: inline-block;
+}
+
+@media (min-width: 640px){
+    .redes-socias .redes-paragrafo{
+        display: block;
+    }
 }
 
 /****** fim do css do main ******/
